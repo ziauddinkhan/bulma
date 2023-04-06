@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ziauddin</title>
+    <link rel ="icon"type="image/x-icon"href="./favicon (1).ico">
+    <style>
+        table,th,tr,td{
+            border:2px solid black;
+            width:8%;height:10%;
+            padding:20px;
+            border-collapse:collapse;
+        }
+        th{
+        background-color:aqua
+        }
+    h1{
+            text-align:center;
+        }
+        h1{
+            background-color:hsl(344,34%,33%,0.5);text-align:center
+        } 
+         /* body{ 
+        background-image:url(./afg2.jpg);
+        background-repeat:no-repeat;
+        background-attachment:fixed;
+        background-size:cover}  */
+        table,tr,th,td{
+        border:3px solid wheat};
+        div{background-color:blue
+                }
+                table{
+                    background-image:url(./afg2.jpg);
+                    background-repeat:no-repeat;
+                    background-attachment:fixed;
+                    background-size:cover;
+                
+         </style>
+    </head>
+<body>
+    <h1 >my  is ziauddin </h1>
+
+    <p>
+        ziauddin
+    </p>
+    <HR>
+            <h1>
+             khan
+            </h1>
+           
+                  <br>
+
+                  <a href="https://www.facebook.com/">
+                    <img src="./74893778_157873778644602_7902289656232804352_n.jpg"alt="ziauddin"
+                    style="width:250px;height:190px;">
+                  </a>
+                  <br>
+                  <from action="/action_page.php">
+                    <input type="color"id="favcolor"name="favcolor"value="color">
+                    <br>
+                    <labal for="password">password</labal>
+                    <br>
+                    <input type ="password"id="password"placeholder="password"><br>
+                    <input type ="fname"id="fname"placeholder="fast name">
+                    <input type="submit"value="submit">
+                    </from>
+                  <table>
+                    <tr>
+                        <th>
+                            name
+                        </th>
+                        <th>
+                            work
+                        </th>
+                        <th>
+                            about
+                        </th>
+                    <tr>
+                        <td>
+                            zia uddin
+                        </td>
+                        <td>
+                            meer ghous udddin
+                        </td>
+                        <td colspan="2"rowspan="2">
+                            <a href="https://search.yahoo.com/search?fr=mcafee&type=E210US91215G0&p=land+culires+v8+wallpaper">
+                                <img src="./afg2.jpg"alt=" zia uddin"style="widht:230px;height:150px;">
+                            </a>
+                        </td>
+                    </tr>
+                  </table>
+                 <form>
+                    <input type ="text"id="firstneam"placeholder="name">
+                    <br>
+                    <input type ="button"onclick="alert('ziauddin')"value="click">
+                    <br>
+                    <input type="button"onclick="alert('khan')"value="khan">
+                    <br>
+                   <input type="button"onclick="alert('jee')"value="jee">
+                   <br>
+                   <input type="color"id="favcolor"name="favcolor"value="color">
+                  </form>
+                  <br>
+                  <iframe src="https://ccm.net/computing/" title="W3Schools HTML Tutorial" height="350px" width="99%"></iframe>
+                <input type ="color"id="favcolor"name="favcolor"value="ziauddin">
+                <br>
+                <br>
+
+             <picture>
+                    <source media="(min-width:600px)"srcset="./boys.jpg">
+                    <source media="(min-width:350px)"srcset="./ima-map.jpg">
+                    <img src ="./istockphoto-1026452206-612x612.jpg"style="width:500px;height:600px">
+                </picture>
+                <br>
+                <img src="./ima-map.jpg"alt="laptop"usemap="#workmap"widht="300"height="400">
+                <map name="workmap">
+                <area shape="rect"coords="28,41,275,343"href="https://apnews.com/">
+                </map> -->
+                <img src="./ima-map.jpg"alt="mobile"usemap="#workmap"width="500"height="550">
+                <map name="workmap">
+                <area shape="rect"coords="28,41,227,343"href="https://search.yahoo.com/search;_ylt=AwrFbI4YzS5kKnEOAZBXNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGZyA21jYWZlZQRmcjIDc2ItdG9wBGdwcmlkAwRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMTUEcXVlcnkDY29sb3IlMjBzdHlsZSUyMGJveQR0X3N0bXADMTY4MDc4ODc3OQ--?p=color+style+boy&fr2=sb-top&fr=mcafee&type=E210US91215G0">
+                </map>
+                <br>
+                <table>
+                    <tr>
+                        <th>
+                            name
+                        </th>
+                        <th>
+                            f name
+                        </th>
+                        <th>
+                            work
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>
+                        ziuddin
+                    </td>
+                        <td>
+                            meer ghuus uddin
+                        </td>
+                        <td>
+                            talar
+                        </td>
+                    </tr>
+
+                </table>
+                </body>
+                </html>
